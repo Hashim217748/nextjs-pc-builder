@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "678bca422616ae02e22256fd"
+  },
+  "name": "Intel Core i5-10400F",
+  "price": 180,
+  "priceRange": "Mid",
+  "stock": 15,
+  "wattage": 65,
+  "ddr": "DDR4",
+  "socket": "LGA1200"
+},
+{
+  "_id": {
+    "$oid": "678bca422616ae02e22256fe"
+  },
+  "name": "AMD Ryzen 5 3600",
+  "price": 200,
+  "priceRange": "Mid",
+  "stock": 20,
+  "wattage": 65,
+  "ddr": "DDR4",
+  "socket": "AM4"
+},
+{
+  "_id": {
+    "$oid": "678bca422616ae02e22256ff"
+  },
+  "name": "Intel Core i7-10700K",
+  "price": 350,
+  "priceRange": "High",
+  "stock": 10,
+  "wattage": 125,
+  "ddr": "DDR4",
+  "socket": "LGA1200"
+},
+{
+  "_id": {
+    "$oid": "678bca422616ae02e2225700"
+  },
+  "name": "AMD Ryzen 7 5800X",
+  "price": 400,
+  "priceRange": "High",
+  "stock": 5,
+  "wattage": 105,
+  "ddr": "DDR4",
+  "socket": "AM4"
+},
+{
+  "_id": {
+    "$oid": "678bca422616ae02e2225701"
+  },
+  "name": "Intel Core i9-11900K",
+  "price": 500,
+  "priceRange": "High",
+  "stock": 7,
+  "wattage": 125,
+  "ddr": "DDR4",
+  "socket": "LGA1200"
+},
+{
+  "_id": {
+    "$oid": "678bca422616ae02e2225702"
+  },
+  "name": "AMD Ryzen 9 5900X",
+  "price": 550,
+  "priceRange": "High",
+  "stock": 6,
+  "wattage": 105,
+  "ddr": "DDR4",
+  "socket": "AM4"
+},
+{
+  "_id": {
+    "$oid": "678bca422616ae02e2225703"
+  },
+  "name": "Intel Core i7-11700F",
+  "price": 330,
+  "priceRange": "High",
+  "stock": 10,
+  "wattage": 65,
+  "ddr": "DDR4",
+  "socket": "LGA1200"
+},
+{
+  "_id": {
+    "$oid": "678bca422616ae02e2225704"
+  },
+  "name": "AMD Ryzen 5 5600X",
+  "price": 300,
+  "priceRange": "Mid",
+  "stock": 18,
+  "wattage": 65,
+  "ddr": "DDR4",
+  "socket": "AM4"
+},
+{
+  "_id": {
+    "$oid": "678bca422616ae02e2225705"
+  },
+  "name": "Intel Core i5-11600K",
+  "price": 250,
+  "priceRange": "Mid",
+  "stock": 20,
+  "wattage": 125,
+  "ddr": "DDR4",
+  "socket": "LGA1200"
+}]

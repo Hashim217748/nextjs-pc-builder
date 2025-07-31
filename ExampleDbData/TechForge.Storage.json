@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "678bcde82616ae02e222574f"
+  },
+  "name": "Samsung 970 EVO Plus 1TB",
+  "price": 150,
+  "priceRange": "High",
+  "stock": 29,
+  "wattage": 5,
+  "type": "NVMe SSD",
+  "capacity": "1TB"
+},
+{
+  "_id": {
+    "$oid": "678bcde82616ae02e2225750"
+  },
+  "name": "Seagate Barracuda 2TB HDD",
+  "price": 70,
+  "priceRange": "Mid",
+  "stock": 35,
+  "wattage": 5,
+  "type": "HDD",
+  "capacity": "2TB"
+},
+{
+  "_id": {
+    "$oid": "678bcde82616ae02e2225751"
+  },
+  "name": "WD Black SN850 2TB",
+  "price": 300,
+  "priceRange": "High",
+  "stock": 19,
+  "wattage": 5,
+  "type": "NVMe SSD",
+  "capacity": "2TB"
+},
+{
+  "_id": {
+    "$oid": "678bcde82616ae02e2225752"
+  },
+  "name": "Crucial MX500 1TB",
+  "price": 110,
+  "priceRange": "Mid",
+  "stock": 28,
+  "wattage": 5,
+  "type": "SATA SSD",
+  "capacity": "1TB"
+},
+{
+  "_id": {
+    "$oid": "678bcde82616ae02e2225753"
+  },
+  "name": "Samsung 860 EVO 500GB",
+  "price": 70,
+  "priceRange": "Mid",
+  "stock": 45,
+  "wattage": 5,
+  "type": "SATA SSD",
+  "capacity": "500GB"
+},
+{
+  "_id": {
+    "$oid": "678bcde82616ae02e2225754"
+  },
+  "name": "Seagate FireCuda 2TB SSHD",
+  "price": 100,
+  "priceRange": "Mid",
+  "stock": 25,
+  "wattage": 5,
+  "type": "SSHD",
+  "capacity": "2TB"
+},
+{
+  "_id": {
+    "$oid": "678bcde82616ae02e2225755"
+  },
+  "name": "WD Blue 2TB HDD",
+  "price": 60,
+  "priceRange": "Low",
+  "stock": 50,
+  "wattage": 5,
+  "type": "HDD",
+  "capacity": "2TB"
+},
+{
+  "_id": {
+    "$oid": "678bcde82616ae02e2225756"
+  },
+  "name": "Crucial P2 1TB NVMe",
+  "price": 90,
+  "priceRange": "Mid",
+  "stock": 32,
+  "wattage": 5,
+  "type": "NVMe SSD",
+  "capacity": "1TB"
+},
+{
+  "_id": {
+    "$oid": "6797d598312daa745c8935d3"
+  },
+  "name": "Toshiba X300 4TB",
+  "price": 150,
+  "priceRange": "High",
+  "stock": 17,
+  "wattage": 5,
+  "type": "HDD",
+  "capacity": "4TB",
+  "__v": 0
+}]

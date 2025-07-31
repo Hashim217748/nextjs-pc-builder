@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "678bccc52616ae02e2225727"
+  },
+  "name": "G.Skill Ripjaws V 16GB",
+  "price": 80,
+  "priceRange": "Mid",
+  "stock": 35,
+  "wattage": 5,
+  "type": "DDR4",
+  "capacity": "16GB"
+},
+{
+  "_id": {
+    "$oid": "678bccc52616ae02e2225728"
+  },
+  "name": "Corsair Dominator Platinum RGB 32GB",
+  "price": 200,
+  "priceRange": "High",
+  "stock": 19,
+  "wattage": 5,
+  "type": "DDR4",
+  "capacity": "32GB"
+},
+{
+  "_id": {
+    "$oid": "678bccc52616ae02e2225729"
+  },
+  "name": "G.Skill Trident Z Neo 32GB",
+  "price": 220,
+  "priceRange": "High",
+  "stock": 18,
+  "wattage": 5,
+  "type": "DDR4",
+  "capacity": "32GB"
+},
+{
+  "_id": {
+    "$oid": "678bccc52616ae02e222572a"
+  },
+  "name": "Kingston FURY Renegade 16GB",
+  "price": 90,
+  "priceRange": "Mid",
+  "stock": 25,
+  "wattage": 5,
+  "type": "DDR5",
+  "capacity": "16GB"
+},
+{
+  "_id": {
+    "$oid": "678bccc52616ae02e222572b"
+  },
+  "name": "Corsair Vengeance DDR5 32GB",
+  "price": 250,
+  "priceRange": "High",
+  "stock": 12,
+  "wattage": 5,
+  "type": "DDR5",
+  "capacity": "32GB"
+},
+{
+  "_id": {
+    "$oid": "678bccc52616ae02e222572c"
+  },
+  "name": "Crucial Ballistix 16GB",
+  "price": 75,
+  "priceRange": "Mid",
+  "stock": 28,
+  "wattage": 5,
+  "type": "DDR4",
+  "capacity": "16GB"
+},
+{
+  "_id": {
+    "$oid": "678bccc52616ae02e222572d"
+  },
+  "name": "Team Group T-Force Dark 16GB",
+  "price": 85,
+  "priceRange": "Mid",
+  "stock": 22,
+  "wattage": 5,
+  "type": "DDR4",
+  "capacity": "16GB"
+},
+{
+  "_id": {
+    "$oid": "678bccc52616ae02e222572e"
+  },
+  "name": "Patriot Viper Steel 32GB",
+  "price": 210,
+  "priceRange": "High",
+  "stock": 14,
+  "wattage": 5,
+  "type": "DDR4",
+  "capacity": "32GB"
+},
+{
+  "_id": {
+    "$oid": "678bccc52616ae02e222572f"
+  },
+  "name": "ADATA XPG Z1 16GB",
+  "price": 70,
+  "priceRange": "Mid",
+  "stock": 30,
+  "wattage": 5,
+  "type": "DDR4",
+  "capacity": "16GB"
+},
+{
+  "_id": {
+    "$oid": "678bccc52616ae02e2225730"
+  },
+  "name": "Crucial DDR5 16GB",
+  "price": 100,
+  "priceRange": "Mid",
+  "stock": 26,
+  "wattage": 5,
+  "type": "DDR5",
+  "capacity": "16GB"
+}]

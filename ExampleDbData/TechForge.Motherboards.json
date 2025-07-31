@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "678bcc542616ae02e2225718"
+  },
+  "name": "MSI MPG Z490 Gaming Edge",
+  "price": 200,
+  "priceRange": "Mid",
+  "stock": 15,
+  "wattage": 60,
+  "ddr": "DDR4",
+  "socket": "LGA1200",
+  "maxMemory": 128,
+  "memorySlots": 4,
+  "pcie": "PCIe 3.0",
+  "formFactor": "ATX"
+},
+{
+  "_id": {
+    "$oid": "678bcc542616ae02e2225719"
+  },
+  "name": "Gigabyte Z690 AORUS Elite AX",
+  "price": 300,
+  "priceRange": "High",
+  "stock": 10,
+  "wattage": 70,
+  "ddr": "DDR5",
+  "socket": "LGA1700",
+  "maxMemory": 128,
+  "memorySlots": 4,
+  "pcie": "PCIe 4.0",
+  "formFactor": "ATX"
+},
+{
+  "_id": {
+    "$oid": "678bcc542616ae02e222571a"
+  },
+  "name": "ASRock B550M Steel Legend",
+  "price": 150,
+  "priceRange": "Mid",
+  "stock": 12,
+  "wattage": 55,
+  "ddr": "DDR4",
+  "socket": "AM4",
+  "maxMemory": 128,
+  "memorySlots": 4,
+  "pcie": "PCIe 4.0",
+  "formFactor": "Micro-ATX"
+},
+{
+  "_id": {
+    "$oid": "678bcc542616ae02e222571b"
+  },
+  "name": "MSI MAG B560M Bazooka",
+  "price": 140,
+  "priceRange": "Mid",
+  "stock": 18,
+  "wattage": 60,
+  "ddr": "DDR4",
+  "socket": "LGA1200",
+  "maxMemory": 64,
+  "memorySlots": 2,
+  "pcie": "PCIe 4.0",
+  "formFactor": "Micro-ATX"
+},
+{
+  "_id": {
+    "$oid": "678bcc542616ae02e222571c"
+  },
+  "name": "Gigabyte B550 AORUS PRO AC",
+  "price": 200,
+  "priceRange": "Mid",
+  "stock": 16,
+  "wattage": 70,
+  "ddr": "DDR4",
+  "socket": "AM4",
+  "maxMemory": 128,
+  "memorySlots": 4,
+  "pcie": "PCIe 4.0",
+  "formFactor": "ATX"
+},
+{
+  "_id": {
+    "$oid": "678bcc542616ae02e222571d"
+  },
+  "name": "ASUS TUF Gaming Z690-Plus WiFi",
+  "price": 250,
+  "priceRange": "High",
+  "stock": 8,
+  "wattage": 75,
+  "ddr": "DDR5",
+  "socket": "LGA1700",
+  "maxMemory": 128,
+  "memorySlots": 4,
+  "pcie": "PCIe 5.0",
+  "formFactor": "ATX"
+},
+{
+  "_id": {
+    "$oid": "678bcc542616ae02e222571e"
+  },
+  "name": "MSI MEG X570 ACE",
+  "price": 350,
+  "priceRange": "High",
+  "stock": 5,
+  "wattage": 90,
+  "ddr": "DDR4",
+  "socket": "AM4",
+  "maxMemory": 128,
+  "memorySlots": 4,
+  "pcie": "PCIe 4.0",
+  "formFactor": "ATX"
+},
+{
+  "_id": {
+    "$oid": "678bcc542616ae02e222571f"
+  },
+  "name": "ASRock X570 Taichi",
+  "price": 320,
+  "priceRange": "High",
+  "stock": 6,
+  "wattage": 70,
+  "ddr": "DDR4",
+  "socket": "AM4",
+  "maxMemory": 128,
+  "memorySlots": 4,
+  "pcie": "PCIe 4.0",
+  "formFactor": "ATX"
+},
+{
+  "_id": {
+    "$oid": "678bcc542616ae02e2225720"
+  },
+  "name": "Gigabyte Z390 AORUS Pro",
+  "price": 180,
+  "priceRange": "Mid",
+  "stock": 17,
+  "wattage": 60,
+  "ddr": "DDR4",
+  "socket": "LGA1151",
+  "maxMemory": 64,
+  "memorySlots": 4,
+  "pcie": "PCIe 3.0",
+  "formFactor": "ATX"
+},
+{
+  "_id": {
+    "$oid": "678bcc542616ae02e2225721"
+  },
+  "name": "ASUS Prime ",
+  "price": 12,
+  "priceRange": "High",
+  "stock": 12,
+  "wattage": 12,
+  "ddr": "DDR4",
+  "socket": "AM4",
+  "maxMemory": 12,
+  "memorySlots": 12,
+  "pcie": "PCIe 3.0",
+  "formFactor": "ATX"
+}]

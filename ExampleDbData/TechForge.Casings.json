@@ -1,0 +1,110 @@
+[
+  {
+    "_id": {
+      "$oid": "678bc9bb2616ae02e22256ed"
+    },
+    "name": "Corsair 4000D Airflow",
+    "price": 95,
+    "priceRange": "Mid",
+    "stock": 15,
+    "wattage": 0,
+    "type": "Mid Tower",
+    "formFactor": ["ATX", "Micro ATX", "Mini ATX"]
+  },
+  {
+    "_id": {
+      "$oid": "678bc9bb2616ae02e22256ee"
+    },
+    "name": "Lian Li PC-O11 Dynamic",
+    "price": 140,
+    "priceRange": "High",
+    "stock": 10,
+    "wattage": 0,
+    "type": "Mid Tower",
+    "formFactor": ["ATX", "Micro ATX", "Mini ATX"]
+  },
+  {
+    "_id": {
+      "$oid": "678bc9bb2616ae02e22256f0"
+    },
+    "name": "Phanteks Eclipse P500A",
+    "price": 130,
+    "priceRange": "High",
+    "stock": 11,
+    "wattage": 0,
+    "type": "Mid Tower",
+    "formFactor": ["ATX", "Micro ATX", "Mini ATX"]
+  },
+  {
+    "_id": {
+      "$oid": "678bc9bb2616ae02e22256f1"
+    },
+    "name": "Fractal Design Meshify C",
+    "price": 110,
+    "priceRange": "Mid",
+    "stock": 18,
+    "wattage": 0,
+    "type": "Mid Tower",
+    "formFactor": ["ATX", "Micro ATX", "Mini ATX"]
+  },
+  {
+    "_id": {
+      "$oid": "678bc9bb2616ae02e22256f2"
+    },
+    "name": "DEEPCOOL MATREXX 55",
+    "price": 60,
+    "priceRange": "Low",
+    "stock": 22,
+    "wattage": 0,
+    "type": "Mid Tower",
+    "formFactor": ["ATX", "Micro ATX", "Mini ATX"]
+  },
+  {
+    "_id": {
+      "$oid": "678bc9bb2616ae02e22256f3"
+    },
+    "name": "Thermaltake Core P3",
+    "price": 180,
+    "priceRange": "High",
+    "stock": 5,
+    "wattage": 0,
+    "type": "Mid Tower",
+    "formFactor": ["ATX", "Micro ATX", "Mini ATX"]
+  },
+  {
+    "_id": {
+      "$oid": "678bc9bb2616ae02e22256f4"
+    },
+    "name": "SilverStone FARA R1",
+    "price": 65,
+    "priceRange": "Low",
+    "stock": 30,
+    "wattage": 0,
+    "type": "Mid Tower",
+    "formFactor": ["ATX", "Micro ATX", "Mini ATX"]
+  },
+  {
+    "_id": {
+      "$oid": "678bc9bb2616ae02e22256f5"
+    },
+    "name": "Antec NX410",
+    "price": 75,
+    "priceRange": "Low",
+    "stock": 16,
+    "wattage": 0,
+    "type": "Mid Tower",
+    "formFactor": ["ATX", "Micro ATX", "Mini ATX"]
+  },
+  {
+    "_id": {
+      "$oid": "678bc9bb2616ae02e22256f6"
+    },
+    "name": "be quiet! Pure Base 500",
+    "price": 100,
+    "priceRange": "Mid",
+    "stock": 14,
+    "wattage": 2,
+    "type": "Mid Tower",
+    "formFactor": ["ATX", "Mini ATX", "Micro ATX"]
+  }
+]

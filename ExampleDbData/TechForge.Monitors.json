@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "678bcd262616ae02e2225735"
+  },
+  "name": "LG 27GL850",
+  "price": 350,
+  "priceRange": "Mid",
+  "stock": 15,
+  "wattage": 30,
+  "size": "27 inches",
+  "resolution": "1440p"
+},
+{
+  "_id": {
+    "$oid": "678bcd262616ae02e2225736"
+  },
+  "name": "Samsung Odyssey G7",
+  "price": 600,
+  "priceRange": "High",
+  "stock": 6,
+  "wattage": 50,
+  "size": "32 inches",
+  "resolution": "1440p"
+},
+{
+  "_id": {
+    "$oid": "678bcd262616ae02e2225737"
+  },
+  "name": "AOC 24G2",
+  "price": 180,
+  "priceRange": "Low",
+  "stock": 20,
+  "wattage": 25,
+  "size": "24 inches",
+  "resolution": "1080p"
+},
+{
+  "_id": {
+    "$oid": "678bcd262616ae02e2225738"
+  },
+  "name": "BenQ EW3270U",
+  "price": 400,
+  "priceRange": "Mid",
+  "stock": 12,
+  "wattage": 35,
+  "size": "32 inches",
+  "resolution": "4K"
+},
+{
+  "_id": {
+    "$oid": "678bcd262616ae02e2225739"
+  },
+  "name": "HP Omen 27i",
+  "price": 450,
+  "priceRange": "Mid",
+  "stock": 20,
+  "wattage": 30,
+  "size": "27 inches",
+  "resolution": "1440p"
+},
+{
+  "_id": {
+    "$oid": "678bcd262616ae02e222573a"
+  },
+  "name": "Acer Predator X34",
+  "price": 800,
+  "priceRange": "High",
+  "stock": 3,
+  "wattage": 60,
+  "size": "34 inches",
+  "resolution": "3440x1440"
+},
+{
+  "_id": {
+    "$oid": "678bcd262616ae02e222573b"
+  },
+  "name": "Philips 328E1CA",
+  "price": 300,
+  "priceRange": "Mid",
+  "stock": 18,
+  "wattage": 40,
+  "size": "32 inches",
+  "resolution": "4K"
+},
+{
+  "_id": {
+    "$oid": "678bcd262616ae02e222573c"
+  },
+  "name": "ViewSonic VX3276-4K-MHD",
+  "price": 320,
+  "priceRange": "Mid",
+  "stock": 15,
+  "wattage": 35,
+  "size": "32 inches",
+  "resolution": "4K"
+},
+{
+  "_id": {
+    "$oid": "678bcd262616ae02e222573d"
+  },
+  "name": "Gigabyte G27QC",
+  "price": 320,
+  "priceRange": "Mid",
+  "stock": 19,
+  "wattage": 35,
+  "size": "27 inches",
+  "resolution": "1440p"
+},
+{
+  "_id": {
+    "$oid": "678bcd262616ae02e222573e"
+  },
+  "name": "Dell P2419H",
+  "price": 160,
+  "priceRange": "Low",
+  "stock": 30,
+  "wattage": 25,
+  "size": "24 inches",
+  "resolution": "1080p"
+}]

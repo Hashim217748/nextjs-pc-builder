@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "678bcd7c2616ae02e2225742"
+  },
+  "name": "Seasonic Focus GX-750",
+  "price": 120,
+  "priceRange": "Mid",
+  "stock": 20,
+  "wattage": 750,
+  "formFactor": "ATX",
+  "efficiencyRating": "80+ Gold",
+  "modular": "Fully Modular"
+},
+{
+  "_id": {
+    "$oid": "678bcd7c2616ae02e2225743"
+  },
+  "name": "Corsair RM850x",
+  "price": 150,
+  "priceRange": "High",
+  "stock": 13,
+  "wattage": 850,
+  "formFactor": "ATX",
+  "efficiencyRating": "80+ Gold",
+  "modular": "Fully Modular"
+},
+{
+  "_id": {
+    "$oid": "678bcd7c2616ae02e2225744"
+  },
+  "name": "Cooler Master MWE Gold 650",
+  "price": 100,
+  "priceRange": "Mid",
+  "stock": 25,
+  "wattage": 650,
+  "formFactor": "ATX",
+  "efficiencyRating": "80+ Gold",
+  "modular": "Semi-Modular"
+},
+{
+  "_id": {
+    "$oid": "678bcd7c2616ae02e2225745"
+  },
+  "name": "Thermaltake Smart 500W",
+  "price": 40,
+  "priceRange": "Low",
+  "stock": 50,
+  "wattage": 500,
+  "formFactor": "ATX",
+  "efficiencyRating": "80+",
+  "modular": "Non-Modular"
+},
+{
+  "_id": {
+    "$oid": "678bcd7c2616ae02e2225746"
+  },
+  "name": "NZXT C750",
+  "price": 130,
+  "priceRange": "Mid",
+  "stock": 18,
+  "wattage": 750,
+  "formFactor": "ATX",
+  "efficiencyRating": "80+ Gold",
+  "modular": "Fully Modular"
+},
+{
+  "_id": {
+    "$oid": "678bcd7c2616ae02e2225747"
+  },
+  "name": "MSI MPG A650GF",
+  "price": 110,
+  "priceRange": "Mid",
+  "stock": 22,
+  "wattage": 650,
+  "formFactor": "ATX",
+  "efficiencyRating": "80+ Gold",
+  "modular": "Fully Modular"
+},
+{
+  "_id": {
+    "$oid": "678bcd7c2616ae02e2225748"
+  },
+  "name": "be quiet! Straight Power 11 850W",
+  "price": 160,
+  "priceRange": "High",
+  "stock": 11,
+  "wattage": 850,
+  "formFactor": "ATX",
+  "efficiencyRating": "80+ Platinum",
+  "modular": "Fully Modular"
+},
+{
+  "_id": {
+    "$oid": "678bcd7c2616ae02e2225749"
+  },
+  "name": "SilverStone SX500-LG",
+  "price": 140,
+  "priceRange": "High",
+  "stock": 10,
+  "wattage": 500,
+  "formFactor": "SFX-L",
+  "efficiencyRating": "80+ Gold",
+  "modular": "Fully Modular"
+},
+{
+  "_id": {
+    "$oid": "6797f794312daa745c893700"
+  },
+  "name": "new PSU",
+  "price": 120,
+  "priceRange": "High",
+  "stock": 11,
+  "wattage": 9,
+  "formFactor": "ATX",
+  "efficiencyRating": "80+ Platinum",
+  "modular": "Fully Modular",
+  "__v": 0
+}]

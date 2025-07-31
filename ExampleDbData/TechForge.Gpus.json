@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "678bcab42616ae02e2225709"
+  },
+  "name": "AMD Radeon RX 570",
+  "price": 180,
+  "priceRange": "Low",
+  "stock": 20,
+  "wattage": 150,
+  "memory": "4GB GDDR5",
+  "pcie": "PCIe 3.0"
+},
+{
+  "_id": {
+    "$oid": "678bcab42616ae02e222570a"
+  },
+  "name": "NVIDIA GeForce RTX 3060",
+  "price": 400,
+  "priceRange": "Mid",
+  "stock": 15,
+  "wattage": 170,
+  "memory": "12GB GDDR6",
+  "pcie": "PCIe 4.0"
+},
+{
+  "_id": {
+    "$oid": "678bcab42616ae02e222570b"
+  },
+  "name": "AMD Radeon RX 6600 XT",
+  "price": 450,
+  "priceRange": "Mid",
+  "stock": 10,
+  "wattage": 160,
+  "memory": "8GB GDDR6",
+  "pcie": "PCIe 4.0"
+},
+{
+  "_id": {
+    "$oid": "678bcab42616ae02e222570c"
+  },
+  "name": "NVIDIA GeForce RTX 3080",
+  "price": 700,
+  "priceRange": "High",
+  "stock": 3,
+  "wattage": 320,
+  "memory": "10GB GDDR6X",
+  "pcie": "PCIe 4.0"
+},
+{
+  "_id": {
+    "$oid": "678bcab42616ae02e222570d"
+  },
+  "name": "AMD Radeon RX 6800 XT",
+  "price": 650,
+  "priceRange": "High",
+  "stock": 7,
+  "wattage": 300,
+  "memory": "16GB GDDR6",
+  "pcie": "PCIe 4.0"
+},
+{
+  "_id": {
+    "$oid": "678bcab42616ae02e222570e"
+  },
+  "name": "NVIDIA GeForce RTX 3070",
+  "price": 500,
+  "priceRange": "Mid",
+  "stock": 12,
+  "wattage": 220,
+  "memory": "8GB GDDR6",
+  "pcie": "PCIe 4.0"
+},
+{
+  "_id": {
+    "$oid": "678bcab42616ae02e222570f"
+  },
+  "name": "AMD Radeon RX 6700 XT",
+  "price": 480,
+  "priceRange": "Mid",
+  "stock": 10,
+  "wattage": 230,
+  "memory": "12GB GDDR6",
+  "pcie": "PCIe 4.0"
+},
+{
+  "_id": {
+    "$oid": "678bcab42616ae02e2225710"
+  },
+  "name": "NVIDIA GeForce RTX 3090",
+  "price": 1000,
+  "priceRange": "High",
+  "stock": 3,
+  "wattage": 350,
+  "memory": "24GB GDDR6X",
+  "pcie": "PCIe 4.0"
+},
+{
+  "_id": {
+    "$oid": "678bcab42616ae02e2225711"
+  },
+  "name": "AMD Radeon RX 6900 XT",
+  "price": 900,
+  "priceRange": "High",
+  "stock": 3,
+  "wattage": 300,
+  "memory": "16GB GDDR6",
+  "pcie": "PCIe 4.0"
+},
+{
+  "_id": {
+    "$oid": "678bcab42616ae02e2225712"
+  },
+  "name": "NVIDIA GeForce GTX 1660 Super",
+  "price": 230,
+  "priceRange": "Low",
+  "stock": 20,
+  "wattage": 125,
+  "memory": "6GB GDDR6",
+  "pcie": "PCIe 3.0"
+}]
